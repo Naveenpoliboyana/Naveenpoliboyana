@@ -1,0 +1,26 @@
+ 
+1. How can you create a user without useradd command
+
+2. What is the default permission on user's home directory?
+
+3. What is the difference between .bash_profile and .bashrc?
+4. What is the command to create a user with a pre defined uid, shell and home directory?
+5. Explain each field of /etc/passwd
+6. How to change primary group for any user?
+7. If I delete a user, does it's home directory gets deleted? If not then what is the command to delete the home directory of user along with the user
+8. Name any 3 files which are automatically created inside any user's home directory when a user is added
+9. What is the command to view all the currently logged in users?
+10. What is the command to change and view the expiry date for any user?
+11. What are the details you get with finger command?
+12. How can you give a normal user all the root level privileges?
+13. Name any 3 groups of which root is a member by default
+14. Describe the /etc/shadow file fields ?
+15.Describe the /etc/group file fields ?
+16.Default permission of Passwd/Shadow/Group files ?
+17.How to view the list of users who currently logged in the system ?
+18.How to view the User's login and logout details ?
+19.How to lock the User Account ?
+20.How to rename the existing User ID ?
+21.How to make the user account as non-expriry ?
+22.How do we set force passwd change for User's first login ?
+
